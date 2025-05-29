@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vijay sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **caraggio**
+- 🔭 I’m currently working on **products**
 
-- 🌱 I’m currently learning **react js and vue js**
+- 🌱 I’m currently learning **Laravel and vue js**
 
 - 💬 Ask me about **laravel php**
 
